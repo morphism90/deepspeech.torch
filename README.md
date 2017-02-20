@@ -71,3 +71,12 @@ Lots of people helped/contributed to this project that deserve recognition:
 * Ding Ling, Yuan Yang and Yan Xia for their significant contribution to online training, multi-gpu support and many other important features.
 * Erich Elsen and the team from Baidu for their contribution of Warp-CTC that made this possible, and the encouraging words and support given throughout the project.
 * Maciej Korzepa for his huge help in training a model on Librispeech!
+
+## Useful references
+
+* http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/ (Tutorial to RNN)
+* http://karpathy.github.io/2015/05/21/rnn-effectiveness/ (Karpathy's blog page about RNN)
+* http://colah.github.io/posts/2015-08-Understanding-LSTMs/ (LSTM's description)
+* http://www-dsi.ing.unifi.it/~paolo/ps/tnn-94-gradient.pdf (Gradient problems with gradient calculcation)
+* http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf (Awesome paper about LSTM)
+
